@@ -1,0 +1,9 @@
+{
+  "name": "crn30402-Bookstore-App",
+  "version": "0.0.1",
+  "description": "An inventory management system for exotic and antique books.",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-ngdocs": "^0.2.9"
+  }
+}
